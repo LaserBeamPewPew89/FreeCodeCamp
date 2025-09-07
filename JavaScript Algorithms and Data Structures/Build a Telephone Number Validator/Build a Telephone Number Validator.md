@@ -11,7 +11,7 @@ In the US, phone numbers can be formatted in many ways. Here are some examples o
 > (555)555-5555
 >
 
-Note that the area code is required. Also, if the country code is provided, you must confirm that the country code is 1.
+Note that the area code is required. Also, if the country code is provided, you must confirm that the country code is `1`.
 
 1. You should have an `input` element with an `id` of `"user-input"`.
 
